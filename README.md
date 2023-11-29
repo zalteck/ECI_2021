@@ -10,6 +10,8 @@ Universidad de Granada.
 Fernando Pérez Bueno - fpb@ugr.es
 Rafael Molina Soriano - rms@decsai.ugr.es
 ~~~
+[![DOI](https://zenodo.org/badge/725083401.svg)](https://zenodo.org/doi/10.5281/zenodo.10219927)
+
 
 # Práctica 1: Análisis de Componentes Principales (PCA)
 
